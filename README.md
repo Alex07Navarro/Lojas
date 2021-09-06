@@ -1,0 +1,2 @@
+# Lojas
+Automatização Lojas
